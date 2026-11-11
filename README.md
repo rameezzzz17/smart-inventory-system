@@ -281,3 +281,25 @@ GitHub: https://github.com/rameezzzz17
 
 **Project:** Smart Inventory & Billing Management System  
 **Type:** Full-Stack Web Application
+
+## Project Screenshots
+
+The following screenshots demonstrate the application's user interface and major modules.
+
+### Application Interface
+
+![Screenshot 1](docs/screenshots/screenshot-2026-11-11-173629.png)
+
+![Screenshot 2](docs/screenshots/screenshot-2026-11-11-173920.png)
+
+![Screenshot 3](docs/screenshots/screenshot-2026-11-11-173958.png)
+
+![Screenshot 4](docs/screenshots/screenshot-2026-11-11-174100.png)
+
+![Screenshot 5](docs/screenshots/screenshot-2026-11-11-174127.png)
+
+![Screenshot 6](docs/screenshots/screenshot-2026-11-11-174157.png)
+
+![Screenshot 7](docs/screenshots/screenshot-2026-11-11-174214.png)
+
+![Screenshot 8](docs/screenshots/screenshot-2026-11-11-174236.png)
