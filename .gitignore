@@ -1,0 +1,28 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+
+# Django
+.env
+.env.*
+!.env.example
+db.sqlite3
+media/
+staticfiles/
+
+# React
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+frontend/.env.*
+!frontend/.env.example
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
